@@ -1,7 +1,5 @@
 # ray-bot
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## Description
 
 Ray bot is the best bot to show your ranks and show the invites that someone make it. Made by LavaboyDev#2014 and JavaCode7#8160
