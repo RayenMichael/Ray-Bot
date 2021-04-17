@@ -26,11 +26,6 @@ npm i
 ## Usage
 
 
-
-## License
-
-This repository is licensed under the MIT license.
-
 ## Contributing
 
 
